@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="human_name">nekorush14</string>
+    <string name="job_title">Software Engineer</string>
+    <string name="mail_address">sample@example.com</string>
+    <string name="account_name">\@nekorush14</string>
+    <string name="phone_number">+** (***) **** ****</string>
+    <string name="content_description_phone_number">Phone number</string>
+    <string name="content_description_social_media_account">Social media account</string>
+    <string name="content_description_place_at">Place at</string>
+    <string name="content_description_email_address">Email address</string>
+</resources>
