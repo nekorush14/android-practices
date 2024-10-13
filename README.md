@@ -13,3 +13,8 @@ Currently, we have learned following code-labs.
   * ComposeArticle app
   * BusinessCard app
 
+* Unit2: Building app UI
+  * DiceRoller app
+  * Lemonade app
+  * PhotoSpace app (Originally: ArtSpace app)
+
