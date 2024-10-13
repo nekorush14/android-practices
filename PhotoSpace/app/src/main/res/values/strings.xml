@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Photo Space</string>
+    <string name="photo_1_title">photo 1</string>
+    <string name="photo_2_title">photo 2</string>
+    <string name="photo_3_title">photo 3</string>
+    <string name="photo_description">The photo taken by</string>
+    <string name="photographer_name">nekorush14</string>
+    <string name="single_space">\u0020</string>
+    <string name="date">(2024/01/07)</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+</resources>
