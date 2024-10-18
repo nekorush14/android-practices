@@ -1,6 +1,7 @@
 package com.example.photospace
 
 import androidx.compose.ui.test.junit4.createComposeRule
+import androidx.compose.ui.test.onNodeWithContentDescription
 import androidx.compose.ui.test.onNodeWithText
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -48,5 +49,19 @@ class PhotoSpaceInstrumentedTest {
         }
         composeTestRule.onNodeWithText("Previous").assertExists()
         composeTestRule.onNodeWithText("Next").assertExists()
+    }
+
+    /**
+     * Show photo image with content description "My Image".
+     * In this case, it will check whether the image is displayed or not.
+     */
+    @Test
+    fun showPhotoImage() {
+        composeTestRule.setContent {
+            PhotoSpaceTheme {
+                ImageBoard(image = R.drawable.pxl_20240107_061351121)
+            }
+        }
+        composeTestRule.onNodeWithContentDescription("My Image")
     }
 }
