@@ -22,3 +22,7 @@ Currently, we have learned following code-labs.
   * Courses app
   * Superhero app
   * Daily GenAI Tips app
+
+# License
+
+This software is released under the Apache License 2.0, see LICENSE.
