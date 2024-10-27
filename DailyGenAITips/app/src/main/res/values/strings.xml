@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">DailyGenAITips</string>
+
+    <string name="day1_title">Android StudioでGeminiを活用しよう！ - コーディングの効率化 -</string>
+    <string name="day1_description">Android Studio のプラグインで Gemini を導入すると、コードの自動生成、コード補完、エラー検出、リファクタリングなど、様々な機能が利用できます。コーディング作業を効率化し、開発速度を向上させましょう。</string>
+
+    <string name="day2_title">GenAIで魅力的なキャッチコピーを作成！</string>
+    <string name="day2_description">GenAI は、広告やマーケティングで効果的なキャッチコピーを作成するのに役立ちます。製品の特徴やターゲット層をプロンプトに含めることで、より魅力的なキャッチコピーを生成できます。</string>
+
+    <string name="day3_title">GeminiでAndroidアプリのUIを設計！</string>
+    <string name="day3_description">Gemini は、AndroidアプリのUI設計にも活用できます。レイアウトの提案や画像生成など、デザイン作業をサポートする機能があります。</string>
+
+    <string name="day4_title">プロンプトに役割を与えてみよう！</string>
+    <string name="day4_description">GenAIへの指示は、より具体的に記述するほど、意図した結果を得やすくなります。例えば、「あなたは一流のシェフです。〇〇のレシピを教えてください。」のように、役割を与えることで、より的確で質の高い回答を得られます。</string>
+
+    <string name="day5_title">Android StudioでGeminiのエミュレータを使ってみよう！</string>
+    <string name="day5_description">Android Studio には Gemini のエミュレータが用意されています。アプリ開発中に Gemini の動作確認を行う際に便利です。</string>
+
+    <string name="day6_title">GenAIで物語のアイデアを膨らませよう！</string>
+    <string name="day6_description">GenAI は、物語のアイデアを膨らませるのに役立ちます。プロンプトに、登場人物、設定、プロットなどを記述することで、新たな展開やアイデアを生み出すことができます。</string>
+
+    <string name="day7_title">Geminiでコードのセキュリティチェック！</string>
+    <string name="day7_description">Gemini は、コードのセキュリティチェックにも活用できます。脆弱性のあるコードを検出し、修正案を提案してくれます。</string>
+
+    <string name="day8_title">プロンプトに制約を加えてみよう！</string>
+    <string name="day8_description">GenAI に対して、出力形式や文字数などの制約を加えることで、より望ましい結果を得やすくなります。例えば、「〇〇について100字以内で説明してください。」のように指示してみましょう。</string>
+
+    <string name="day9_title">Android StudioのGeminiでテストコードを自動生成！</string>
+    <string name="day9_description">Gemini は、Androidアプリのテストコードを自動生成する機能も備えています。テストコードの作成時間を削減し、開発効率を向上させましょう。</string>
+
+    <string name="day10_title">GenAIで外国語の学習を効率化！</string>
+    <string name="day10_description">GenAI は、外国語の学習にも役立ちます。翻訳、発音練習、文法チェックなど、様々な機能を利用できます。</string>
+
+    <string name="day11_title">Geminiでアプリの多言語化を簡単に！</string>
+    <string name="day11_description">Gemini を利用すると、Androidアプリの多言語化を簡単に行うことができます。翻訳機能やローカライズ支援ツールを活用しましょう。</string>
+
+    <string name="day12_title">プロンプトは具体的に、そして明確に！</string>
+    <string name="day12_description">GenAI に対するプロンプトは、曖昧な表現を避け、具体的かつ明確に記述することが重要です。必要な情報や条件を明確に伝えることで、より正確な回答を得られます。</string>
+
+    <string name="day13_title">Android StudioでGeminiのデバッグ機能を活用しよう！</string>
+    <string name="day13_description">Android Studio の Gemini プラグインには、デバッグ機能も含まれています。Gemini を利用したアプリのデバッグ作業を効率化できます。</string>
+
+    <string name="day14_title">GenAIでプレゼンテーション資料を作成！</string>
+    <string name="day14_description">GenAI は、プレゼンテーション資料の作成にも活用できます。構成案の作成、コンテンツの生成、デザインの提案など、様々な機能があります。</string>
+
+    <string name="day15_title">Geminiでアプリのアクセシビリティ向上！</string>
+    <string name="day15_description">Gemini は、Androidアプリのアクセシビリティ向上にも貢献できます。音声認識や音声合成などの機能を活用することで、より多くのユーザーが利用しやすいアプリを開発できます。</string>
+
+    <string name="day16_title">プロンプトエンジニアリングとは？</string>
+    <string name="day16_description">GenAI が生成する出力の質は、プロンプトの質に大きく依存します。プロンプトエンジニアリングとは、より良いプロンプトを作成するための技術です。</string>
+
+    <string name="day17_title">Android StudioでGeminiのパフォーマンス分析！</string>
+    <string name="day17_description">Android Studio の Gemini プラグインには、パフォーマンス分析ツールも含まれています。Gemini を利用したアプリのパフォーマンスを最適化しましょう。</string>
+
+    <string name="day18_title">GenAIで詩や歌詞を作成してみよう！</string>
+    <string name="day18_description">GenAI は、創造的なタスクにも活用できます。詩や歌詞の作成、小説の執筆など、様々な創作活動を支援します。</string>
+
+    <string name="day19_title">Geminiでアプリのパーソナライズ機能を実装！</string>
+    <string name="day19_description">Gemini を利用すると、Androidアプリにパーソナライズ機能を簡単に実装できます。ユーザーの好みに合わせたコンテンツや機能を提供することで、ユーザーエンゲージメントを高めましょう。</string>
+
+    <string name="day20_title">プロンプトに例を挙げてみよう！</string>
+    <string name="day20_description">GenAI に対して、期待する出力の例を挙げることで、より意図した結果を得やすくなります。例えば、「〇〇のようなスタイルで文章を作成してください。」のように指示してみましょう。</string>
+
+    <string name="day21_title">Android StudioでGeminiのA/Bテストを実施！</string>
+    <string name="day21_description">Android Studio の Gemini プラグインには、A/Bテストを実施するための機能も含まれています。Gemini を利用したアプリの改善に役立てましょう。</string>
+
+    <string name="day22_title">GenAIでビジネスアイデアを生み出そう！</string>
+    <string name="day22_description">GenAI は、新しいビジネスアイデアを生み出す brainstorming にも役立ちます。市場のトレンドや顧客のニーズをプロンプトに含めることで、より現実的なアイデアを生成できます。</string>
+
+    <string name="day23_title">Geminiでアプリのユーザーエクスペリエンス向上！</string>
+    <string name="day23_description">Gemini は、Androidアプリのユーザーエクスペリエンス向上にも貢献できます。ユーザーの行動分析やフィードバック収集など、様々な機能を活用しましょう。</string>
+
+    <string name="day24_title">複数回プロンプトを送ってみよう！</string>
+    <string name="day24_description">GenAI との対話は、一度のプロンプトで完結するとは限りません。複数回プロンプトを送ることで、より深く掘り下げた情報やアイデアを得られます。</string>
+
+    <string name="day25_title">Android StudioでGeminiの最新情報を入手！</string>
+    <string name="day25_description">Android Studio の Gemini プラグインは、常に最新バージョンにアップデートしましょう。最新機能や改善点を利用することで、より効率的に開発を進められます。</string>
+
+    <string name="day26_title">GenAIで自分のスキルを棚卸し！</string>
+    <string name="day26_description">GenAI を活用して、自分のスキルや経験を整理してみましょう。強みや弱みを分析することで、キャリアプランの見直しやスキルアップに役立ちます。</string>
+
+    <string name="day27_title">Geminiでアプリのセキュリティ対策を強化！</string>
+    <string name="day27_description">Gemini は、Androidアプリのセキュリティ対策を強化するためにも活用できます。認証機能やデータ暗号化など、様々なセキュリティ機能を実装しましょう。</string>
+
+    <string name="day28_title">GenAI APIを活用してみよう！</string>
+    <string name="day28_description">GenAI API を利用することで、GenAI の機能を自分のアプリケーションに組み込むことができます。独自のアプリケーションで、高度な自然言語処理機能を活用しましょう。</string>
+
+    <string name="day29_title">Geminiでアプリの開発コスト削減！</string>
+    <string name="day29_description">Gemini を活用することで、Androidアプリの開発コストを削減できます。コードの自動生成、テストの自動化など、様々な機能が開発効率を向上させます。</string>
+
+    <string name="day30_title">GenAIを使いこなすための継続的な学習！</string>
+    <string name="day30_description">GenAI は常に進化しています。最新の技術や情報に常に触れることで、GenAI をより効果的に活用できるようになりましょう。</string>
+
+    <string name="days_day">Day %d</string>
+    <string name="theme_change_icon">Theme Change icon</string>
+</resources>
