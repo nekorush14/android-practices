@@ -18,3 +18,7 @@ Currently, we have learned following code-labs.
   * Lemonade app
   * PhotoSpace app (Originally: ArtSpace app)
 
+* Unit3: Display lists and use Material Design
+  * Courses app
+  * Superhero app
+  * Daily GenAI Tips app
